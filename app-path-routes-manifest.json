@@ -1,7 +1,7 @@
 {
   "/api/sendmail/route": "/api/sendmail",
-  "/about/page": "/about",
   "/contact/page": "/contact",
+  "/about/page": "/about",
   "/services/page": "/services",
   "/page": "/",
   "/studentInfo/page": "/studentInfo"
