@@ -4,8 +4,8 @@ const nextConfig = {
     appDir: true,
   },
   distDir: "build",
-  // output: "export",
-  //basePath: "/Sure-Smart",
+  output: "export",
+  basePath: "/suresmart",
 };
 
 module.exports = nextConfig;
