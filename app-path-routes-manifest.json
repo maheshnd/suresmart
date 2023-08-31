@@ -2,7 +2,7 @@
   "/api/sendmail/route": "/api/sendmail",
   "/about/page": "/about",
   "/contact/page": "/contact",
+  "/services/page": "/services",
   "/page": "/",
-  "/studentInfo/page": "/studentInfo",
-  "/services/page": "/services"
+  "/studentInfo/page": "/studentInfo"
 }

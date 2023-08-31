@@ -26,6 +26,12 @@
       "static/chunks/426-c756588d2eefb8ba.js",
       "static/chunks/app/contact/page-044c4275e4c715fe.js"
     ],
+    "/services/page": [
+      "static/chunks/webpack-6abb7c3f2f04e0fb.js",
+      "static/chunks/455-fb78cf339325f2ae.js",
+      "static/chunks/main-app-a329cfb25a536765.js",
+      "static/chunks/app/services/page-a88d45a27adce8e6.js"
+    ],
     "/page": [
       "static/chunks/webpack-6abb7c3f2f04e0fb.js",
       "static/chunks/455-fb78cf339325f2ae.js",
@@ -38,12 +44,6 @@
       "static/chunks/455-fb78cf339325f2ae.js",
       "static/chunks/main-app-a329cfb25a536765.js",
       "static/chunks/app/studentInfo/page-5891c0de8daa6d62.js"
-    ],
-    "/services/page": [
-      "static/chunks/webpack-6abb7c3f2f04e0fb.js",
-      "static/chunks/455-fb78cf339325f2ae.js",
-      "static/chunks/main-app-a329cfb25a536765.js",
-      "static/chunks/app/services/page-a88d45a27adce8e6.js"
     ]
   }
 }
