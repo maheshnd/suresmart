@@ -1,0 +1,8 @@
+{
+  "/api/sendmail/route": "app/api/sendmail/route.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/page": "app/page.js",
+  "/studentInfo/page": "app/studentInfo/page.js",
+  "/services/page": "app/services/page.js"
+}
