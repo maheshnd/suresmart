@@ -5,7 +5,7 @@ const nextConfig = {
   },
   distDir: "build",
   output: "export",
-  basePath: "/suresmart",
+  // basePath: "/suresmart",
 };
 
 module.exports = nextConfig;
